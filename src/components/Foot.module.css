@@ -1,0 +1,21 @@
+.Foot{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.imgBx{
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  object-fit: cover;
+  margin: 15px;
+}
+img{
+  width: 100%;
+}

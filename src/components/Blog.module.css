@@ -1,0 +1,19 @@
+.box1{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.item1{
+  width: 400px;
+  background: rgb(67, 67, 67);
+  margin: 10px;
+  padding: 10px;
+  color: white
+}
+.item2{
+  width: 300px;
+  background: rgb(243, 119, 119);
+  margin: 10px;
+  padding: 10px;
+  color: white
+}
